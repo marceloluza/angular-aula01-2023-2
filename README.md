@@ -1,4 +1,4 @@
-# MarceloAula0120232
+# Marcelo Luza - Aula 01 - Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.10.
 
