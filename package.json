@@ -1,5 +1,5 @@
 {
-  "name": "marcelo-aula01-2023-2",
+  "name": "marcelo-aula01-2024-2",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -7,7 +7,7 @@
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
-    "serve:ssr:marcelo-aula01-2023-2": "node dist/marcelo-aula01-2023-2/server/server.mjs"
+    "serve:ssr:marcelo-aula01-2024-2": "node dist/marcelo-aula01-2024-2/server/server.mjs"
   },
   "private": true,
   "dependencies": {
@@ -22,7 +22,7 @@
     "@angular/router": "^17.3.0",
     "@angular/ssr": "^17.3.10",
     "express": "^4.18.2",
-    "marcelo-aula01-2023-2": "file:",
+    "marcelo-aula01-2024-2": "file:",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.3"
